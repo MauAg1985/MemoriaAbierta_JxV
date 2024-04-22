@@ -1,0 +1,101 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://MauAg1985.github.io/MemoriaAbierta_JxV/annotations/audiencia-1_disco_2-canvas-1-condiciones-de-reclusi-n-clandestina--fiscal-general--testigo--personas-detenidas-desaparecidas--centro-clandestino-de-detenci-n--victima-de-la-represi-n--riesgo-para-la-salud.json",
+  "type": "AnnotationPage",
+  "label": "Condiciones de reclusión clandestina, Fiscal General, testigo, personas detenidas desaparecidas, centro clandestino de detención, victima de la represión, riesgo para la salud",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "audiencia-1_disco_2-canvas-1-condiciones-de-reclusi-n-clandestina--fiscal-general--testigo--personas-detenidas-desaparecidas--centro-clandestino-de-detenci-n--victima-de-la-represi-n--riesgo-para-la-salud-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "-¿Quién lo acompañaba?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://MauAg1985.github.io/MemoriaAbierta_JxV/audiencia-1_disco_2/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://MauAg1985.github.io/MemoriaAbierta_JxV/audiencia-1_disco_2/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "569.039,570.18"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "audiencia-1_disco_2-canvas-1-condiciones-de-reclusi-n-clandestina--fiscal-general--testigo--personas-detenidas-desaparecidas--centro-clandestino-de-detenci-n--victima-de-la-represi-n--riesgo-para-la-salud-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "-¿Le sacaban la venda? -No.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://MauAg1985.github.io/MemoriaAbierta_JxV/audiencia-1_disco_2/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://MauAg1985.github.io/MemoriaAbierta_JxV/audiencia-1_disco_2/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "575.293,576.693"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "audiencia-1_disco_2-canvas-1-condiciones-de-reclusi-n-clandestina--fiscal-general--testigo--personas-detenidas-desaparecidas--centro-clandestino-de-detenci-n--victima-de-la-represi-n--riesgo-para-la-salud-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "-¿Le daban algún elemento para infiltrarse?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://MauAg1985.github.io/MemoriaAbierta_JxV/audiencia-1_disco_2/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://MauAg1985.github.io/MemoriaAbierta_JxV/audiencia-1_disco_2/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "577.193,579.308"
+        }
+      }
+    }
+  ]
+}
