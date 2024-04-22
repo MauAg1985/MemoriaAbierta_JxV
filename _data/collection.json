@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Memoria Abierta JxV" ] },
+    "summary": { "en": [ "Testimonio 1 Bahía Blanca" ] },
+    "items": [
+    ]
+}
